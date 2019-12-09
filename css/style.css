@@ -1,0 +1,32 @@
+body{
+background-color: blue;
+}
+header{
+margin:0 -14px;
+padding: 0;
+height: 250px;
+background-image: url("../img/titans.gif");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+color:blue;
+text-align: center;
+}
+header h1{
+position: relative;
+bottom: -100px;
+}
+section{
+color: white;
+}
+section h1{
+text-align: center;
+}
+.display-names{
+background-color:white;
+text-align: center;
+margin: 0 auto;
+}
+.playerInfo{
+    background-color:white;
+}
